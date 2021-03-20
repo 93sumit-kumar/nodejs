@@ -35,7 +35,14 @@
 
 # __Always try to download Nodejs LTS(Logn term support) version because this is stable version.__
 
-# __IDE/Editor for Nodejs is VSCode(Visiol studio code) simple lite weight and best.
+# __IDE/Editor for Nodejs is VSCode(Visiol studio code) simple lite weight and best.__
+
+# __Nodejs Prerequisites
+
+* Basic javaScript(Advanced JS will be bonus )
+* ES5 &ES6|ECMAScript 6
+* Client Server Model(optional)
+* 
 
 # _Thanks for Reading_
 
